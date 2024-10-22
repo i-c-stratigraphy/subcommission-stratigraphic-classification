@@ -3,11 +3,11 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>International Commission on Stratigraphy</title>
-    <link href="/images/logo-ics.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link href="{{ site.baseurl }}/images/logo-ics.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
     <style>
         @font-face {
             font-family: 'Palatino';
-            src: url('/style/Palatino.eot?#iefix') format('embedded-opentype'),  url('/style/Palatino.woff') format('woff'), url('/style/Palatino.ttf')  format('truetype'), url('/style/Palatino.svg#Palatino') format('svg');
+            src: url('{{ site.baseurl }}/style/Palatino.eot?#iefix') format('embedded-opentype'),  url('{{ site.baseurl }}/style/Palatino.woff') format('woff'), url('{{ site.baseurl }}/style/Palatino.ttf')  format('truetype'), url('{{ site.baseurl }}/style/Palatino.svg#Palatino') format('svg');
             font-weight: normal;
             font-style: normal;
         }
@@ -95,9 +95,9 @@
         }
 
         #banner {
-            background: url("images/quaternary.jpg") no-repeat;
+            background: url("{{ site.baseurl }}/images/NeuerHeader.png") no-repeat;
             display: block;
-            height:290px;
+            height:150px;
             background-size: contain;
             margin-bottom: -3px;
         }
@@ -158,7 +158,7 @@
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
-                <a href="http://stratigraphy.org"><img src="/images/logo-isc-3D-dark.png" alt="ICS logo" style="width:100px" /></a>
+                <a href="http://stratigraphy.org"><img src="{{ site.baseurl }}/images/logo-isc-3D-dark.png" alt="ICS logo" style="width:100px" /></a>
             </div>
             <div id="innerheader">
                 <div id="headertxt" style="padding: 50px 20px;">
