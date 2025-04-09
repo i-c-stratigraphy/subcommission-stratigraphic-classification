@@ -5,27 +5,29 @@ permalink: /organisation
 ---
 ## Organisation
 
+*Nominated officers for 2025-2028* 
+
 ### Chair
 
 #### Jochen Erbacher
 ![](images/person-erbacher.gif)  
 
-Honorary Professor: University Heidelberg  
-BGR – Federal Institute for Geosciences and Natural Resources  
+Stratigraphy and Collections  
+Federal Institute for Geosciences and Natural Ressources  
 Stilleweg 2, 30655 Hannover, Germany  
 Tel: +49-511-643-2795  
-E-mail: <Jochen.Erbacher@bgr.de>  
+E-mail: <erbacher@bgr.de>  
 
-### Vic Chair
+### Vice Chair (non-voting)
 
 #### Werner E. Piller
 ![](images/person-piller.gif)  
 
-Institute for Earth Sciences  
+Institute for Earth Sciences, NAWI Graz Geocenter    
 University of Graz  
 Heinrichstrasse 26  
 8010 Graz, Austria  
-Tel: +43 316 380 5582  
+Tel: +43 699 11977719  
 E-mail: <werner.piller@uni-graz.at>  
 
 ### Secretary
@@ -34,7 +36,7 @@ E-mail: <werner.piller@uni-graz.at>
 ![](images/person-larmagnat.jpg)  
 
 Adjunct Professor: INRS-ETE  
-Geological Survey of Canada, GSC-Q  
+Geological Survey of Canada  
 490 rue de la Couronne  
 Québec G1K 9A9 CANADA  
 Tel: +1 418-654-1463/581-446-7433  

@@ -5,22 +5,24 @@ permalink: /members-voting
 ---
 ## Members - Voting
 
-* Aubry Marie Pierre, Rutgers University, New Jersey, USA, <aubry@rci.rutgers.edu>
-* Catuneanu Octavian, Alberta, Canada, <octavian.catuneanu@ualberta.ca>
-* † Csaszar Geza, Budapest, Hungary, <csaszar.geza@gmail.com>
-* Easton Mike, Sudbury, Canada, <mike.easton@ndm.gov.on.ca>
-* Edwards Lucy E., Reston, USA, <leedward@usgs.gov>
-* Erbacher Jochen, Hannover, Germany, <jochen.erbacher@bgr.de>
-* Ferretti Annalisa, Modena, Italy, <ferretti@unimore.it>
-* Fluegeman Richard H., Ball State University, Indiana, USA, <rfluegem@bsu.edu>
-* Gianolla Piero, Ferrara, Italy, <piero.gianolla@unife.it>
-* Gladenkov Yuri B., Moscow, Russia, <gladenkov@ginras.ru>
-* Grunert Patrick, Graz, Germany, <pgrunert@uni-koeln.de>
-* Head Martin J., Ontario, Canada <mjhead@brocku.ca>
-* Hilgen Frederik J., Utrecht, The Netherlands, <f.j.hilgen@uu.nl>
-* Krijgsman Wout, Utrecht, The Netherlands, <w.krijgsman@uu.nl>
-* Menning Manfred, Potsdam, Germany, <menne@gfz-potsdam.de>
-* Piller Werner E., Graz, Austria, <werner.piller@uni-graz.at>
-* Pratt Brian R., Saskatchewan, Canada, <brian.pratt@usask.ca>
-* Raffi Isabella, Chieti, Italy, <isabella.raffi@unich.it>
-* Weissert Helmut, Zurich, Switzerland, <helmut.weissert@erdw.ethz.ch>
+_Voting Members for 2025-2028_
+
+* Jose Manuel Castro (Spain), <jmcastro@ujaen.es>
+* Carlo Corradini (Italy), <ccorradini@units.it> 
+* Helen Coxall (Sweden), <helen.coxall@geo.su.se> 
+* Jochen Erbacher (Germany), <jochen.erbacher@bgr.de> 
+* Annalisa Ferretti (Italy), <ferretti@unimore.it> 
+* John Flynn (USA), <jflynn@amnh.org> 
+* Timothy Herbert (USA), <timothy_herbert@brown.edu> 
+* Jennifer Kasbohm (USA), <jkasbohm@carnegiescience.edu> 
+* Stephanie Larmagnat (Canada), <stephanie.larmagnat@NRCan-RNCan.gc.ca> 
+* Fernando Nunez-Useche (Mexico), <fernandonu@geologia.unam.mx> 
+* Sylvain Richoz (Sweden), <sylvain.richoz@geol.lu.se> 
+* Christian Rowan (USA), <cmr2273@columbia.edu> 
+* Anne-Christine da Silva (Belgium), <ac.dasilva@uliege.be> 
+* Emmy Smith (USA), <efsmith@jhu.edu> 
+* Jun Tian (China), <tianjun@tongji.edu.cn> 
+* David De Vleeschouwer (Germany), <ddevlees@uni-muenster.de> 
+* Weimu Xu (Ireland), <weimu.xu1@ucd.ie> 
+* Christian Zeeden (Germany), <Christian.Zeeden@leibniz-liag.de> 
+* Yang Zhang (Germany), <zhangy@uni-bremen.de>

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Circulars"
-permalink: /circulars
+title: "Circulars Archive"
+permalink: /archives-circulars
 ---
-## Circulars
+## Circulars Archive
 
 * ISSC Circular 101 (July 31, 2002)
 * [ISSC Circular 100 (January 25, 2002)](/files/circulars/CIRC100.pdf)

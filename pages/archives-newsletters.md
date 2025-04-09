@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Newsletters"
-permalink: /newsletters
+title: "Newsletters Archive"
+permalink: /archives-newsletters
 ---
-## Newsletters
-
+## Newsletters Archive
 
 * Newsletter 1
 * [Newsletter 2 Mai 2003](/files/newsletters/ISSC_Newsletter_02.pdf)
